@@ -1,0 +1,13 @@
+customtkinter
+markdown
+pyjwt
+cryptography
+tkhtmlview
+requests
+matplotlib
+aiohttp
+asyncio
+playwright
+beautifulsoup4
+fake-useragent
+aiofiles
