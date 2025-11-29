@@ -1,0 +1,46 @@
+[
+  {
+    "user_id": "loic1",
+    "username": "loic1",
+    "license_type": "user",
+    "features": [
+      "traffic",
+      "backlink"
+    ],
+    "exp": "2026-11-08T09:09:11.629263Z",
+    "token_preview": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ…",
+    "public_key_path": "assets\\keys\\loic1_public_key.pem"
+  },
+  {
+    "user_id": "USR-17F5D1BA",
+    "username": "loic",
+    "license_type": "user",
+    "features": [
+      "traffic",
+      "backlink"
+    ],
+    "exp": "2026-11-08T09:45:42.273178Z",
+    "token_preview": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ…",
+    "public_key_path": "assets\\keys\\loic_public_key.pem",
+    "pubkey_fingerprint": "4085396a4b59c4c01f90fb9062e84080c741243c5e342ebf04539fc0767d47c5"
+  },
+  {
+    "user_id": "USR-D3EA3986",
+    "username": "kimakco",
+    "license_type": "user",
+    "features": [
+      "seo_info",
+      "traffic_injector",
+      "backlink_injector",
+      "web_destroyer",
+      "nawala_checker",
+      "broken_link_checker",
+      "hacking_dashboard"
+    ],
+    "exp": "2026-11-08T10:05:53.586266Z",
+    "token_preview": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ…",
+    "public_key_path": "assets\\keys\\kimakco_public_key.pem",
+    "private_key_path": "assets\\keys\\kimakco_private_key.pem",
+    "pubkey_fingerprint": "43e9758959f014159a1a5631ec8628451957ac9a5dfe13b19d90d6f5c1fa25c1"
+  }
+]

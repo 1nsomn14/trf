@@ -1,0 +1,11 @@
+[
+  {
+    "url": "http://xnxx.com",
+    "status": 200,
+    "final_url": "https://internetbaik.telkomsel.com/block?orig_url=http://xnxx.com",
+    "final_host": "internetbaik.telkomsel.com",
+    "orig_url": "http://xnxx.com",
+    "blocked": true,
+    "reason": "redirect_host_match:internetbaik.telkomsel.com; orig_url=http://xnxx.com"
+  }
+]
